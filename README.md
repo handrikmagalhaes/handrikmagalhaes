@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou Handrik Palmeira 
+- Estou fazendo o curso Git e Github do projeto Katie - UFAL
+- Eu sou de Maceió/AL
